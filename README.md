@@ -32,7 +32,7 @@ GIF created with [LiceCap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Encountered issues with configuring the SdkHandler. Resolved by verifying the correct version.
 
 ## License
 
